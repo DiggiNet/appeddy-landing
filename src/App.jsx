@@ -3,8 +3,8 @@ import './index.css';
 function App() {
   return (
     <main className="container">
-      <img src="/logo.png" alt="Appeddy Logo" className="logo" />
-      <h1>Demnächst bei Appeddy.de</h1>
+      <img src="/logo.png" alt="tookalook Logo" className="logo" />
+      <h1>Demnächst bei tookalook.de</h1>
       <p className="intro">PWAs direkt über Subdomains – keine App Store Pflicht!</p>
 
       <section className="apps">
