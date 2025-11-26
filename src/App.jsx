@@ -13,6 +13,8 @@ function App() {
         <AppCard name="Elternsprecher App" />
         <AppCard name="Anzeigen App" />
       </section>
+      <br>
+      </br>
 
       <footer>© 2025 tookalook.de</footer>
     </main>
