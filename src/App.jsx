@@ -5,7 +5,7 @@ function App() {
     <main className="container">
       <img src="/logo.png" alt="tookalook Logo" className="logo" />
       <h1>Demnächst bei tookalook.de</h1>
-      <p className="intro">PWAs direkt über Subdomains – keine App Store Pflicht!</p>
+    
 
       <section className="apps">
         <AppCard name="Lotto App" />
@@ -14,7 +14,7 @@ function App() {
         <AppCard name="Anzeigen App" />
       </section>
 
-      <footer>© 2025 Appeddy.de</footer>
+      <footer>© 2025 tookalook.de</footer>
     </main>
   );
 }
